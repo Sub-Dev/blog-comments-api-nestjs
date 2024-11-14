@@ -12,7 +12,7 @@ Esta é uma API para um sistema de comentários de blog, desenvolvida com NestJS
 
 - [✨ Recursos](#-recursos)
 - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
-- [🎓 Aprendizado](#️-aprendizados)
+- [🎓 Aprendizados](#-aprendizados)
 - [📋 Pré-requisitos](#-pré-requisitos)
 - [📥 Instalação](#-instalação)
 - [⚙️ Configuração do Ambiente](#️-configuração-do-ambiente)

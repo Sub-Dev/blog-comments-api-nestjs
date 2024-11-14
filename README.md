@@ -12,6 +12,7 @@ Esta é uma API para um sistema de comentários de blog, desenvolvida com NestJS
 
 - [✨ Recursos](#-recursos)
 - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
+- [🎓 Aprendizado](#️-aprendizados)
 - [📋 Pré-requisitos](#-pré-requisitos)
 - [📥 Instalação](#-instalação)
 - [⚙️ Configuração do Ambiente](#️-configuração-do-ambiente)
@@ -36,6 +37,18 @@ Esta é uma API para um sistema de comentários de blog, desenvolvida com NestJS
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) [Docker](https://www.docker.com/)
 - ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white) [JWT](https://jwt.io/)
 - ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) [Swagger](https://swagger.io/)
+
+## 🎓 Aprendizados
+
+Durante o desenvolvimento deste projeto, foram adquiridos e aprimorados conhecimentos em diversas áreas:
+
+- NestJS: Estruturação de um projeto modular com NestJS, incluindo o uso de Controllers, Services e Guards para autenticação.
+- TypeORM: Criação e configuração de entidades e relações no banco de dados, além do uso do repositório para operações CRUD.
+- Autenticação JWT: Implementação de autenticação segura usando JSON Web Tokens (JWT), com proteção de rotas sensíveis.
+- Swagger: Documentação automática da API com Swagger, facilitando a visualização e teste dos endpoints.
+- Testes Unitários com Jest: Criação de testes unitários para verificar o comportamento dos módulos principais do projeto, simulando interações com a API.
+- Docker: Configuração do ambiente de desenvolvimento e banco de dados com Docker, facilitando a instalação e execução do projeto.
+- Boas práticas e segurança: Aplicação de práticas para proteção de dados, como hashing de senhas e uso de variáveis de ambiente para informações sensíveis.
 
 ## 📋 Pré-requisitos
 

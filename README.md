@@ -62,7 +62,7 @@ Esta é uma API para um sistema de comentários de blog, desenvolvida com NestJS
 
 1.  Crie um arquivo `.env` na raiz do projeto e defina as variáveis de ambiente:
 
-        ```env
+   ```env
 
     DB_HOST=localhost
     DB_PORT=5432
@@ -71,7 +71,7 @@ Esta é uma API para um sistema de comentários de blog, desenvolvida com NestJS
     DB_NAME=blog_comments
     JWT_SECRET=chavesecreta
 
-        ```
+   ```
 
 2.  Certifique-se de ter um banco de dados PostgreSQL configurado com os mesmos detalhes acima.
 
